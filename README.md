@@ -3,7 +3,7 @@
 
 # Your favorite anime on index list!
 
-## Just simple as search, and get all the info you need about your favorite anime.</h2>
+**😭🙏 Just simple as search, and get all the info you need about your favorite anime.**
 
 React framework featuring _controller_, _fetching_, and also _immutability code_.
 
