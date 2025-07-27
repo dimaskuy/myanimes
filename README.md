@@ -7,6 +7,8 @@
 
 React framework featuring _controller_, _fetching_, and also _immutability code_.
 
+An API by [Jikan.moe](https://docs.api.jikan.moe/)
+
 [![Vite Logo](/public/vite.svg)](https://vite.dev/)
 [![React Logo](/public/react.svg)](https://react.dev/)
 
